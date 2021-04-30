@@ -1,6 +1,6 @@
 ## These are my favorite things:
-⚽ soccer
+* ⚽ soccer
 
-🚲 biking
+* 🚲 biking
 
-⛰️ hiking
+* ⛰️ hiking
